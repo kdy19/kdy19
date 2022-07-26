@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdy19)](https://solved.ac/kdy19)
 
 <!--
