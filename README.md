@@ -2,7 +2,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdy19)](https://solved.ac/kdy19)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdy19)](https://solved.ac/kdy19)
 
 <!--
 **kdy19/kdy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
